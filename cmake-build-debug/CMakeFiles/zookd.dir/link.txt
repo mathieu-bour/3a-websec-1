@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/zookd.dir/zoobar-lab/zookd.c.o CMakeFiles/zookd.dir/zoobar-lab/http.c.o  -o zookd 

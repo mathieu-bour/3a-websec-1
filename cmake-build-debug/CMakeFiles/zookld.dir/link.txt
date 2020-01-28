@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/zookld.dir/zoobar-lab/zookld.c.o CMakeFiles/zookld.dir/zoobar-lab/http.c.o  -o zookld /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
