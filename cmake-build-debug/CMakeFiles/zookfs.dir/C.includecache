@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mathieu/Documents/sec-web/zoobar-lab/http.c
+http.h
+/home/mathieu/Documents/sec-web/zoobar-lab/http.h
+sys/param.h
+-
+sys/sendfile.h
+-
+sys/uio.h
+-
+ctype.h
+-
+err.h
+-
+errno.h
+-
+fcntl.h
+-
+stdarg.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+
+/home/mathieu/Documents/sec-web/zoobar-lab/http.h
+sys/socket.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+stddef.h
+-
+
